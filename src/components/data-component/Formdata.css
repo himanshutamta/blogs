@@ -1,0 +1,31 @@
+.formdata{
+    height: 28vh;
+    width: 65%;
+    margin: 20px 0 20px 150px;
+    
+}
+
+.title{
+    /* margin-right: 80px; */
+    background-color: rgb(169, 219, 238);
+    padding: 10px 80px 0 50px;
+    height: 20vh;
+    
+}
+
+.title h1{
+    font-weight: 600;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.title p{
+    font-size: 18px;
+    font-style: italic
+}
+
+.date{
+    padding: 20px 20px 20px 50px;
+    background-color: rgba(240, 209, 209, 0.877);
+    color: rgb(25, 65, 124);
+    font-size: 20px;
+}
